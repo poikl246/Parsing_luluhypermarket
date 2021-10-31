@@ -1,9 +1,6 @@
-import random
 import time
-from time import sleep
 import requests
 from bs4 import BeautifulSoup
-import json
 import csv
 import os
 
