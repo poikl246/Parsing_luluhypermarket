@@ -3,3 +3,4 @@
 
 ![Без названия](https://user-images.githubusercontent.com/56103491/139570524-3a00f726-3ea7-43bd-ad33-17ab0e0cc188.png)
 
+![](../../../YandexDisk/Скриншоты/2021-10-30_21-27-13.png)
